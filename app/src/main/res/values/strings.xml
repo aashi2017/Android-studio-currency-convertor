@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="title_spinner1">From Country</string>
+    <string name="title_spinner2">To Country</string>
+</resources>
